@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pracainzynierskafron-dev-3604f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267033031:role/amplify-pracainzynierskafron-dev-3604f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267033031:role/amplify-pracainzynierskafron-dev-3604f-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-pracainzynierskafron-dev-3604f-deployment",
+      "UnauthRoleName": "amplify-pracainzynierskafron-dev-3604f-unauthRole",
+      "StackName": "amplify-pracainzynierskafron-dev-3604f",
+      "StackId": "arn:aws:cloudformation:eu-north-1:533267033031:stack/amplify-pracainzynierskafron-dev-3604f/d64412b0-bfc6-11ef-8672-0ecaa85bcbb7",
+      "AmplifyAppId": "d2ykibjxvkau3g"
+    },
+    "categories": {
+      "auth": {
+        "pracainzynierskafronf3dd5f81": {}
+      }
+    }
+  }
+}

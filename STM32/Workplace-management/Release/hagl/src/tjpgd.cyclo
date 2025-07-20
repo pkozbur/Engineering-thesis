@@ -1,0 +1,5 @@
+../hagl/src/tjpgd.c:127:14:alloc_pool	2
+../hagl/src/tjpgd.c:244:12:bitext	9
+../hagl/src/tjpgd.c:294:16:huffext	11
+../hagl/src/tjpgd.c:750:9:jd_prepare	67
+../hagl/src/tjpgd.c:926:9:jd_decomp	60

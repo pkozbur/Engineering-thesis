@@ -1,0 +1,13 @@
+../Core/Src/main.c:84:5:find_person_by_card	32	static
+../Core/Src/main.c:100:6:process_card_scan	24	static
+../Core/Src/main.c:126:5:__io_putchar	16	static
+../Core/Src/main.c:137:6:ConvertFloatToWchar	32	static
+../Core/Src/main.c:140:6:ConvertFloatToWchar2	32	static
+../Core/Src/main.c:143:6:ConvertFloatToWchar3	32	static
+../Core/Src/main.c:147:6:send_data	40	static
+../Core/Src/main.c:157:6:send_telemetry_to_esp32	168	static
+../Core/Src/main.c:163:6:send_rfid_to_esp32	168	static
+../Core/Src/main.c:175:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:207:5:main	320	static
+../Core/Src/main.c:351:6:SystemClock_Config	96	static
+../Core/Src/main.c:407:6:Error_Handler	4	static,ignoring_inline_asm
